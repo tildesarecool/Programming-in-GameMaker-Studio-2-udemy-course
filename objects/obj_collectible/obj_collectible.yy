@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_collectible",
+    "path": "sprites/spr_collectible/spr_collectible.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
